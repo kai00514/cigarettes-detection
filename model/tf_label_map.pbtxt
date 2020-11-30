@@ -1,0 +1,12 @@
+item {
+ id: 1
+ name: 'tabacco_box'
+}
+item {
+ id: 2
+ name: 'a_tabacco'
+}
+item {
+ id: 3
+ name: 'tabacco_name'
+}
